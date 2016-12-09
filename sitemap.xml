@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://oft.com.ua/</loc>
+</url>
+<url>
+  <loc>http://oft.com.ua/index.php</loc>
+</url>
+<url>
+  <loc>http://oft.com.ua/turning.html</loc>
+  <lastmod>2016-12-09T09:11:14+00:00</lastmod>
+</url>
+<url>
+  <loc>http://oft.com.ua/milling.html</loc>
+  <lastmod>2016-12-09T09:11:14+00:00</lastmod>
+</url>
+<url>
+  <loc>http://oft.com.ua/cutting.html</loc>
+  <lastmod>2016-12-09T09:11:14+00:00</lastmod>
+</url>
+<url>
+  <loc>http://oft.com.ua/painting.html</loc>
+  <lastmod>2016-12-09T09:11:14+00:00</lastmod>
+</url>
+<url>
+  <loc>http://oft.com.ua/contacts.php</loc>
+</url>
+</urlset>

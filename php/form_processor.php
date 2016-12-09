@@ -60,9 +60,9 @@ function compose_and_send_mail()
     date_default_timezone_set("Europe/Kiev");
 
     $boundary = md5("sontseslav");
-    $to = "funny_foam@yahoo.com";
+    $to = "oft-office@ukr.net";
     $headers = "MIME-Version: 1.0\r\n"
-        . "From: admin@funny-foam.com.ua \r\n"
+        . "From: admin@oft.com.ua \r\n"
         . "Reply-To: =?utf-8?b?" . base64_encode($name) . "?= <" . $email . ">" . "\r\n"
         . "Content-Type: multipart/mixed; boundary = $boundary\r\n\r\n";
 
